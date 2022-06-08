@@ -26,17 +26,17 @@ async function connect() {
     //   {
     //     name: "Banana",
     //     choice: "like it",
-    //     availabilty: "easy",
+    //     availability: "easy",
     //   },
     //   {
     //     name: "Apple",
     //     choice: "like it",
-    //     availabilty: "easy but expensive",
+    //     availability: "easy but expensive",
     //   },
     //   {
     //     name: "Mango",
     //     choice: "like it very much",
-    //     availabilty: "seasonal",
+    //     availability: "seasonal",
     //   },
     // ]);
     // console.log(fruitInsertion.insertedCount);
